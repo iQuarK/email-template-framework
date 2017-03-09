@@ -1,0 +1,23 @@
+{
+  "name": "email-template-framework",
+  "version": "1.0.0",
+  "description": "Basic framework to create email templates using Inky",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iQuarK/email-template-framework.git"
+  },
+  "author": "Luis Sanchez <luis.sanchez.castellanos@gmail.com>",
+  "license": "None",
+  "dependencies": {
+    "email-validator": "^1.0.7",
+    "entities": "^1.1.1",
+    "foundation-emails": "^2.2.1",
+    "inky": "^1.3.7",
+    "inline-css": "^2.2.2",
+  },
+  "devDependencies": {
+  }
+}
+
